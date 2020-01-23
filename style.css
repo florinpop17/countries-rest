@@ -5,7 +5,7 @@
 }
 
 :root {
-	--background-el: hsl(0, 0%, 100%);
+	--background-el: purple; /* hsl(0, 0%, 100%); */
 	--body: hsl(0, 0%, 98%);
 }
 
